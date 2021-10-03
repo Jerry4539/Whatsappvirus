@@ -32,7 +32,7 @@ because more hacking tools will be added
 
 • bash tools.sh
 
-~sh tools.sh not work~
+° ~sh tools.sh not work~
 
-~./tools.sh not work~
+° ~./tools.sh not work~
 
